@@ -1,6 +1,8 @@
 wowUnit is a [unit testing](http://en.wikipedia.org/wiki/Unit_testing "see Wikipedia")
 framework intended to be used for AddOn development in World of Warcraft.
 
+7/12/2019 - Small fix. Now works with WOW Classic too.
+
 Example
 =======
 
